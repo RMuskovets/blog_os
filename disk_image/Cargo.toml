@@ -8,6 +8,6 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.32"
-bootloader-locator = {path = "../../../bootloader-locator"}
-runner-utils = { path = "../../../runner-utils/" }
+bootloader-locator = "0.0.3"
+runner-utils = "0.0.2"
 locate-cargo-manifest = "0.2.0"
